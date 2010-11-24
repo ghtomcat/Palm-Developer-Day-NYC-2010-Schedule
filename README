@@ -10,3 +10,8 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Original Code: Raphael Kallensee (www.webpresso.net)
+Modifications: Markus Leutwyler (www.thinmachine.ch)
+
+Note: pddnycschedule.json is loaded from my server via AJAX call, change line 360 in schedule-assistant.js to change that
