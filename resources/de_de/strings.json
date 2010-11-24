@@ -1,0 +1,40 @@
+{
+
+    "Campus map": "Campus-Karte",
+    "Help / About": "Hilfe / Über",
+    "Refresh": "Aktualisieren",
+    "View options": "Anzeigeoptionen",
+    "Show all": "Alle anzeigen",
+    "Show only favorites": "Nur Favoriten anzeigen",
+    "Schedule": "Programm",
+
+    "Welcome!": "Willkommen!",
+    "There is currently no schedule stored on your phone. Do you want to download it now?": "Momentan ist kein Programmplan auf Ihrem Gerät gespeichert. Wollen Sie diesen jetzt herunterladen?",
+
+    "Yes": "Ja",
+    "No": "Nein",
+
+    "No events found. If you tried to refresh events, the request failed - please refresh again.": "Keine Events gefunden. Falls Sie das Programm aktualisiert haben, ist die Anfrage fehlgeschlagen - bitte versuchen Sie es erneut.",
+
+    "A database error occured!": "Es trat ein Datenbankfehler auf.",
+
+    "Can't connect to server. Please make sure your internet connection is available.": "Es kann keine Verbindung zum Server aufgebaut werden. Bitte stellen Sie sicher, dass eine Internet-Verbindung besteht.",
+
+    "Failed to get connection status. Please try again.": "Es konnte kein Verbindungsstatus abgefragt werden. Bitte versuchen Sie es erneut.",
+
+    "Refreshed schedule items.": "Programm wurde aktualisiert.",
+
+    "January": "Januar",
+    "February": "Februar",
+    "March": "März",
+    "April": "April",
+    "May": "Mai",
+    "June": "Juni",
+    "July": "Juli",
+    "August": "August",
+    "September": "September",
+    "October": "Oktober",
+    "November": "November",
+    "December": "Dezember"
+
+}

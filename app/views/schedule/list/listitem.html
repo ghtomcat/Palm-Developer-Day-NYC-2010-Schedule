@@ -1,0 +1,19 @@
+<div class="palm-row multi-line" x-mojo-tap-highlight="momentary">
+	<div class="palm-row-wrapper">
+	    <div class="star" id="star-#{id}"></div>
+		<div class="title">#{-title}</div>
+		<div class="preview">#{-time} in #{-location} by #{-attendee}</div>
+		<div id="eventDrawer-#{id}" class="schedule_event_drawer" x-mojo-element="Drawer">
+	        <div class="preview">
+                    Duration: #{-duration}h
+	            <br/>#{-description}
+	            <br /><br />
+	            <a href="#{-url}">#{-url}</a>
+	        </div>
+	        <div class="checkAsFav">
+	            <div x-mojo-element="CheckBox" class="left" name="favItemCheckbox"></div>
+	            <div class="title">Mark as favorite</div>
+	        </div>
+        </div>
+	</div>
+</div>

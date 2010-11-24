@@ -1,0 +1,45 @@
+/* Put Application specific CSS here. */
+
+#ScheduleListContainer .palm-row-wrapper .star {
+	float: right;
+	width: 20px;
+	height: 20px;
+	margin: 15px 10px 10px 10px;
+	background: url(../images/emblem-favorite-inactive.png) left top no-repeat;
+}
+
+#ScheduleListContainer .palm-row-wrapper .starActive {
+	background: url(../images/emblem-favorite.png) left top no-repeat;
+}
+
+#ScheduleListContainer .palm-row-wrapper .title {
+	margin-top: -5px;
+}
+
+#ScheduleListContainer .palm-row-wrapper .preview {
+	margin-top: -10px;
+	padding: 0 15px 10px 15px;
+}
+
+#ScheduleListContainer .palm-row-wrapper .schedule_event_drawer .preview {
+	margin-top: 0;
+	padding-top: 10px;
+}
+
+#ScheduleListContainer .palm-row-wrapper .schedule_event_drawer .checkAsFav {
+	margin-bottom: 10px;
+}
+
+#schedule_spinner {
+    position: fixed;
+    left: 100px;
+    top: 100px;
+}
+
+.favbtn {
+	background: url(../images/emblem-favorite-btn.png) center no-repeat;
+}
+
+.favallbtn {
+	background: url(../images/emblem-favorite-all-btn.png) center no-repeat;
+}

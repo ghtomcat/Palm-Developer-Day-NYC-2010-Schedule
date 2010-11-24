@@ -1,0 +1,9 @@
+{
+	"id": "com.inorbit.palmdevdaynyc2010.web",
+	"version": "0.0.1",
+	"vendor": "ThinMachine",
+	"type": "web",
+	"main": "index.html",
+	"title": "Palm Developer Day NYC 2010 Schedule",
+	"icon": "pdd48.png"
+}
